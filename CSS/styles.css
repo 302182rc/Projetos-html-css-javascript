@@ -1,0 +1,31 @@
+/* POPPINS FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+}
+
+/* COLOR VARIABLES */
+:root {
+    --primary-color: #c6c3c3;
+    --primary-color: #fff;
+    --primary-color: #000;
+}
+
+.body{
+    background-image: url("../img/sombra-de-silhueta-da-cena-da-floresta/2umb_xsjd_211202.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Reusable CSS */
+
+
+/* WRAPPER */
